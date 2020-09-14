@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clonesignup/static/css/main.531aeabb.chunk.css",
+    "main.js": "/clonesignup/static/js/main.6e672fd2.chunk.js",
+    "main.js.map": "/clonesignup/static/js/main.6e672fd2.chunk.js.map",
+    "runtime-main.js": "/clonesignup/static/js/runtime-main.67bff9b7.js",
+    "runtime-main.js.map": "/clonesignup/static/js/runtime-main.67bff9b7.js.map",
+    "static/css/2.0624914a.chunk.css": "/clonesignup/static/css/2.0624914a.chunk.css",
+    "static/js/2.5fb0208b.chunk.js": "/clonesignup/static/js/2.5fb0208b.chunk.js",
+    "static/js/2.5fb0208b.chunk.js.map": "/clonesignup/static/js/2.5fb0208b.chunk.js.map",
+    "index.html": "/clonesignup/index.html",
+    "precache-manifest.c896b37fb5ef3e5f22fb59447f6a4d78.js": "/clonesignup/precache-manifest.c896b37fb5ef3e5f22fb59447f6a4d78.js",
+    "service-worker.js": "/clonesignup/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/clonesignup/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.531aeabb.chunk.css.map": "/clonesignup/static/css/main.531aeabb.chunk.css.map",
+    "static/media/index.css": "/clonesignup/static/media/background.0c0d8c2d.png"
+  }
+}
